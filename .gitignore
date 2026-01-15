@@ -1,0 +1,16 @@
+# Qt build files
+build/
+*/build/
+
+# Qt Creator
+.qtcreator/
+*.user
+*.user.*
+
+# Executables
+*.exe
+*.dll
+
+# OS files
+Thumbs.db
+.DS_Store
